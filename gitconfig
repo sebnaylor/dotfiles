@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sebnaylor@gmail.com
+	name = Seb Naylor
